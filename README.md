@@ -100,6 +100,12 @@ vnpay-wc-gateway/
 
 ---
 
+## 🤝 Contributing
+
+Contributions, bug reports, and feature proposals are welcome! Feel free to open an issue or submit a Pull Request.
+
+---
+
 ## 📄 License & Provenance Notice
 
 This repository is an **independent open-source payment plugin** created by Vo Quang Huy for WooCommerce. It contains no proprietary business data or confidential credentials.
